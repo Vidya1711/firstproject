@@ -18,6 +18,7 @@ list_of_files = [
     "pyproject.toml",
     "tox.ini",
     "experiments/experiments.ipynb",
+    "data/raw_data"
 ]
 
 for filepath in list_of_files:
